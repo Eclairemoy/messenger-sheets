@@ -1,0 +1,4 @@
+- run npm install
+- `node index.js` and start ngrok `ngrok http 3000`
+- put the URLs in canvas kit settings under "add to messenger home"
+- in your messenger home in your Messenger settings add the app for users and visitors
